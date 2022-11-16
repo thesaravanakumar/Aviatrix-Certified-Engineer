@@ -1,5 +1,11 @@
 # Aviatrix Certified Engineer
 
+<div align="right">
+<a href="https://github.com/thesaravanakumar/Aviatrix-Certified-Engineer/pulls">
+  <img align="center"  src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/>
+</a>
+</div>
+
 <div align="center">
 <a href="https://aviatrix.com/">
   <img src="https://user-images.githubusercontent.com/59575502/201534929-b64813e2-210f-4b96-8a7b-b71c453388f5.png" height="200px" width="700px align="center">
