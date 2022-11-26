@@ -1,4 +1,4 @@
-## Feature Overview - Part 1
+## Feature Overview - Part 1 & Part 2
 
 <img width="600" align="right" src="https://user-images.githubusercontent.com/59575502/203302560-46393574-6fdc-4a24-b1c4-804ca61f895d.png">
 
@@ -8,6 +8,15 @@
 - [Ingress Security](#IngressSecurity)
 - [Egress Security](#EgressSecurity)
 - [High Performance Encryption](#HighPerformanceEncryption)
+- [Site2Cloud](#Site2Cloud)
+- [Routing Control](#RoutingControl)
+- [SD-WAN Integaration](#SD-WANIntegaration)
+- [User VPN](#UserVPN)
+- [Firewall Inspection Best Practices](#FirewallInspectionBestPractices)
+- [Aviatrix Integrated Stateful Firewall](#AviatrixIntegratedStatefulFirewall)
+- [Transit FireNet](#TransitFireNet)
+- [ThreatIQ with ThreatGuard](#ThreatIQwithThreatGuard)
+- [Network Behavior Analytics](#NetworkBehaviorAnalytics)
 
 
 <a name="CoreFeatures"></a>
@@ -81,4 +90,73 @@ Egress FQDN Filtering can be applied in two manners.
 
 <div align="center">
 <img width="600" src="https://user-images.githubusercontent.com/59575502/204085360-e540086e-431c-430f-bec4-97f37fe93d1a.png">
+</div>
+
+## Feature Overview - Part 2
+
+<a name="Site2Cloud"></a>
+### Site2Cloud and other services that connect to external networks
+<img width="600" align="right" src="https://user-images.githubusercontent.com/59575502/204087033-11f162cc-9353-40e8-91d4-6ca019745fbe.png">
+
+- IPsec connection to Public Cloud:
+  - On-Prem DC
+  - 3rd Party Appliances, SD-WAN
+  - Branch
+  - Clouds Native Constructs (VPCs/VNets/VCNs)
+- Easy to use and template-driven
+- Built-in diagnostic tools
+- Solves Overlapping IPs Challenges
+
+<img width="900" src="https://user-images.githubusercontent.com/59575502/204087253-bd59974d-65a5-4dfe-8c6e-8c7f62eb8bb9.png">
+
+<a name="RoutingControl"></a>
+### Routing Control
+
+<img width="1200" src="https://user-images.githubusercontent.com/59575502/204087633-0e4cdd63-e778-493c-a908-cc68e772012c.png">
+
+<a name="SD-WANIntegaration"></a>
+### SD-WAN Integaration
+
+<img width="1200" src="https://user-images.githubusercontent.com/59575502/204087813-0956ce1b-5bd5-4254-8f31-3665e86d97e6.png">
+
+<a name="UserVPN"></a>
+### User VPN
+
+<img width="1200" src="https://user-images.githubusercontent.com/59575502/204088062-965318fa-7800-462e-a8e9-6a146f83460e.png">
+
+<a name="FirewallInspectionBestPractices"></a>
+### Firewall Inspection Best Practices
+
+<img width="1200" src="https://user-images.githubusercontent.com/59575502/204088147-ea89c0ef-7223-4e14-b0b9-f42396ec5978.png">
+
+
+<a name="AviatrixIntegratedStatefulFirewall"></a>
+### Aviatrix Integrated Stateful Firewall
+
+<img width="1200" src="https://user-images.githubusercontent.com/59575502/204088252-30cc856a-860a-46c5-841b-a372d3c71ff0.png">
+
+
+<a name="TransitFireNet"></a>
+### Transit FireNet
+
+<img width="1200" src="https://user-images.githubusercontent.com/59575502/204088481-f09730b5-86b3-48de-9f0b-e4370376919e.png">
+<img width="1200" src="https://user-images.githubusercontent.com/59575502/204088483-91b4a488-c80a-4824-8c49-e0b84ef3c406.png">
+<img width="1200" src="https://user-images.githubusercontent.com/59575502/204088486-c08682a1-2b8a-4ad0-927f-9f3f8288af45.png">
+
+<a name="ThreatIQwithThreatGuard"></a>
+### ThreatIQ with ThreatGuard
+
+<img width="1200" src="https://user-images.githubusercontent.com/59575502/204088857-060ba542-ed15-414a-8ec0-0416d07fdadf.png">
+
+<div align="center">
+<img width="600" src="https://user-images.githubusercontent.com/59575502/204088852-a5f9bb90-2d93-44da-945c-9fe1d33f0957.png">
+</div>
+
+<a name="NetworkBehaviorAnalytics"></a>
+### Network Behavior Analytics
+
+<img width="1200" src="https://user-images.githubusercontent.com/59575502/204088957-c5930dc6-a18d-4bf8-8b1f-d8a2ec39476b.png">
+
+<div align="center">
+<img width="600" src="https://user-images.githubusercontent.com/59575502/204088965-5ad8cb2e-0edd-4c19-a3d7-80acb4bfa7ed.png">
 </div>
