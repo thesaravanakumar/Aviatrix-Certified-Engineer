@@ -338,7 +338,7 @@
 
 1. What are the three columns of the MCNA?
     * [ ] Management, Application, Cloud Networking
-    * [ ] Security, Cloud Networking, Operations
+    * [x] Security, Cloud Networking, Operations
     * [ ] Management, Application, Operations
     * [ ] Authentication, Authorization, Management
 
