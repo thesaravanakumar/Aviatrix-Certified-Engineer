@@ -19,10 +19,6 @@ The Aviatrix Certified Engineer (ACE) program is the first multi-cloud networkin
 - Understanding of multi-cloud network architecture and design considerations.
 - Proficiency to build use cases and deploy multi-cloud networks using Aviatrix software.
 
-<p align="center">
-My AVX <a href = "https://user-images.githubusercontent.com/59575502/188865241-4c93948c-6436-4c1a-84fa-1bf0792bef82.gif">Certification.</a>
-</p>
-
 <div align="center">
 
 **ABOUT THIS CERTIFICATION EXAM**
@@ -35,6 +31,10 @@ My AVX <a href = "https://user-images.githubusercontent.com/59575502/188865241-4
 |Exam Format		| 	Multiple choice |
 |Renewal		|	3 years |
 |Register		|	[Link](https://aviatrix.com/ace/) for Exam registration|
+
+<a href="https://www.credly.com/badges/0b3f0226-7344-412a-8769-6e5c4dc4fd61/public_url">
+  <img width="900" src="https://user-images.githubusercontent.com/59575502/209672052-66626931-a3c7-493d-aa88-bb8229526f2c.png">
+</a>
 
 </div>
 
