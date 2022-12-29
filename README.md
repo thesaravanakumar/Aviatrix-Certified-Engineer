@@ -19,22 +19,15 @@ The Aviatrix Certified Engineer (ACE) program is the first multi-cloud networkin
 - Understanding of multi-cloud network architecture and design considerations.
 - Proficiency to build use cases and deploy multi-cloud networks using Aviatrix software.
 
+<p align="center">
+My AVX <a href = "https://www.credly.com/badges/0b3f0226-7344-412a-8769-6e5c4dc4fd61/public_url">Certification.</a>
+</p>
+
 <div align="center">
 
-**ABOUT THIS CERTIFICATION EXAM**
-
-| Level | Challenge |
-| :---: | :---: |
-|Length|			1 hour|
-|Questions			| 	~ 45 |
-|Passing 		| 	70% |
-|Exam Format		| 	Multiple choice |
-|Renewal		|	3 years |
-|Register		|	[Link](https://aviatrix.com/ace/) for Exam registration|
-
-<a href="https://www.credly.com/badges/0b3f0226-7344-412a-8769-6e5c4dc4fd61/public_url">
-  <img width="900" src="https://user-images.githubusercontent.com/59575502/209920136-f152052c-c435-49c5-8573-b4ebdc6b9373.png">
-</a>
+| **ABOUT THIS CERTIFICATION EXAM** | **CERTIFICATION** |
+|:--------:|:--------:|
+| <table> <tr> <td>Level</td> <td>Challenge</td> </tr> <tr> <td>Length</td> <td>1 hour</td> </tr> <tr> <td>Questions</td> <td>~ 45</td> </tr> <tr> <td>Passing</td> <td>70%</td> </tr> <tr> <td>Exam Format</td> <td>Multiple choice</td> </tr> <tr> <td>Renewal</td> <td>3 years</td> </tr> <tr> <td>Register</td> <td>[Link](https://aviatrix.com/ace/) for Exam registration</td> </tr> </table>  |     <img src="https://user-images.githubusercontent.com/59575502/209920136-f152052c-c435-49c5-8573-b4ebdc6b9373.png">     |
 
 </div>
 
