@@ -33,7 +33,7 @@ The Aviatrix Certified Engineer (ACE) program is the first multi-cloud networkin
 |Register		|	[Link](https://aviatrix.com/ace/) for Exam registration|
 
 <a href="https://www.credly.com/badges/0b3f0226-7344-412a-8769-6e5c4dc4fd61/public_url">
-  <img width="900" src="https://user-images.githubusercontent.com/59575502/209672052-66626931-a3c7-493d-aa88-bb8229526f2c.png">
+  <img width="900" src="https://user-images.githubusercontent.com/59575502/209920136-f152052c-c435-49c5-8573-b4ebdc6b9373.png">
 </a>
 
 </div>
@@ -41,13 +41,3 @@ The Aviatrix Certified Engineer (ACE) program is the first multi-cloud networkin
 ### Learning Resources:
 - [ACE self-paced course](https://aviatrix.teachable.com/)
 - [Communtity Resources](https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-resources)
-
-
-
-
-
-
-
-
-
-
