@@ -66,6 +66,9 @@ Except you have no visibility or control over it
 
 </div>
 
+<img width="1295" alt="Screenshot 2023-02-07 at 10 50 04 PM" src="https://user-images.githubusercontent.com/59575502/217317363-dc96927e-3f8a-4a71-aea4-8bb2eb7d4e4b.png">
+<img width="1295" alt="Screenshot 2023-02-07 at 10 50 18 PM" src="https://user-images.githubusercontent.com/59575502/217317432-18d85cc7-3ed2-4fbc-9566-cdf5391b4b0d.png">
+
 
 
 
